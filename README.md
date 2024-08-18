@@ -1,2 +1,2 @@
 # python-essentials
-Source code for an into to python course
+Source code for an intro to python course
